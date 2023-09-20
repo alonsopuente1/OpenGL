@@ -48,7 +48,17 @@
         "xutility": "cpp",
         "filesystem": "cpp",
         "list": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "algorithm": "cpp",
+        "cstdarg": "cpp",
+        "functional": "cpp",
+        "iomanip": "cpp",
+        "locale": "cpp",
+        "unordered_map": "cpp",
+        "xlocbuf": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xloctime": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabled"
 }
